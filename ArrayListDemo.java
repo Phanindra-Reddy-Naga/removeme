@@ -15,6 +15,7 @@ public class ArrayListDemo {
 		al.add("BCD");
 		al.add("A1");
 		al.add("A2");
+		al.add("A3");
 		al.add("A2");
 		
 		dArrayList("Original ArrayList: ", al);
